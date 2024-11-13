@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\POS System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{810DD081-ACC1-429D-869B-650312B13DC2}|POS System\\POS System.csproj|c:\\users\\acer\\source\\repos\\pos system\\pos system\\frmreportsold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810DD081-ACC1-429D-869B-650312B13DC2}|POS System\\POS System.csproj|solutionrelative:pos system\\frmreportsold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810DD081-ACC1-429D-869B-650312B13DC2}|POS System\\POS System.csproj|c:\\users\\acer\\source\\repos\\pos system\\pos system\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{810DD081-ACC1-429D-869B-650312B13DC2}|POS System\\POS System.csproj|solutionrelative:pos system\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810DD081-ACC1-429D-869B-650312B13DC2}|POS System\\POS System.csproj|c:\\users\\acer\\source\\repos\\pos system\\pos system\\frmreportsold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{810DD081-ACC1-429D-869B-650312B13DC2}|POS System\\POS System.csproj|solutionrelative:pos system\\frmreportsold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810DD081-ACC1-429D-869B-650312B13DC2}|POS System\\POS System.csproj|c:\\users\\acer\\source\\repos\\pos system\\pos system\\frmsolditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{810DD081-ACC1-429D-869B-650312B13DC2}|POS System\\POS System.csproj|solutionrelative:pos system\\frmsolditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{810DD081-ACC1-429D-869B-650312B13DC2}|POS System\\POS System.csproj|c:\\users\\acer\\source\\repos\\pos system\\pos system\\frmsolditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{810DD081-ACC1-429D-869B-650312B13DC2}|POS System\\POS System.csproj|solutionrelative:pos system\\frmsolditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report2.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\POS System\\POS System\\Report2.rdlc",
+              "RelativeDocumentMoniker": "POS System\\Report2.rdlc",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\POS System\\POS System\\Report2.rdlc [Design]",
+              "RelativeToolTip": "POS System\\Report2.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-11-13T03:25:48.316Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmReportSold.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\POS System\\POS System\\frmReportSold.cs",
+              "RelativeDocumentMoniker": "POS System\\frmReportSold.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\POS System\\POS System\\frmReportSold.cs",
+              "RelativeToolTip": "POS System\\frmReportSold.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:25:38.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmReportSold.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\POS System\\POS System\\frmReportSold.cs",
+              "RelativeDocumentMoniker": "POS System\\frmReportSold.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\POS System\\POS System\\frmReportSold.cs [Design]",
+              "RelativeToolTip": "POS System\\frmReportSold.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:25:29.52Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmSoldItems.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\POS System\\POS System\\frmSoldItems.cs",
+              "RelativeDocumentMoniker": "POS System\\frmSoldItems.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\POS System\\POS System\\frmSoldItems.cs",
+              "RelativeToolTip": "POS System\\frmSoldItems.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA4wFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:22:52.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmSoldItems.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\POS System\\POS System\\frmSoldItems.cs",
+              "RelativeDocumentMoniker": "POS System\\frmSoldItems.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\POS System\\POS System\\frmSoldItems.cs [Design]",
+              "RelativeToolTip": "POS System\\frmSoldItems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:22:49.819Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
